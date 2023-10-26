@@ -25,7 +25,7 @@
     margin: 20px;
     padding: 20px;
     display: inline-flex;
-
+    padding: 0 25% ;
 }
 .contenedor_tarjeta .tarjeta .contenido-tarjeta span{
     display: block;
@@ -38,6 +38,7 @@
     padding: 20px;
     border-radius: 20px;
     text-align: center;
+
 
 }
 .contenedor_tarjeta .tarjeta:first-child{
