@@ -1,0 +1,45 @@
+*{
+    background-color: #e6e6e6;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.title_main{
+    color: #cf0001;
+    text-align: center;
+    font-size: 27px;
+    text-shadow: 5px 10px 15px green;
+    text-transform: initial;
+}
+/* .contenedor_tarjeta{
+    border: 2px solid #388823;
+    margin: 200px;
+    padding: 50px;
+    text-align: center;
+}
+.contenedor_tarjeta .tarjeta{
+    border: 2px solid green;
+    text-align: center;
+} */
+.contenedor_tarjeta{
+    margin: 20px;
+    padding: 20px;
+    display: inline-flex;
+
+}
+.contenedor_tarjeta .tarjeta .contenido-tarjeta span{
+    display: block;
+    
+}
+
+.contenedor_tarjeta .tarjeta{
+    box-shadow: 5px 10px 20px #385200,
+    -5px -10px 20px #385200;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+
+}
+.contenedor_tarjeta .tarjeta:first-child{
+    margin-right: 150px;
+}
